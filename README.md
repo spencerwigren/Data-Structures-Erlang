@@ -20,7 +20,7 @@
 
 {Make a list of websites that you found helpful in this project}
 * [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm)
-* [Web Site Name](http://url.link.goes.here)
+* [Data Structures](https://www.geeksforgeeks.org/data-structures/)
 
 # Future Work
 
