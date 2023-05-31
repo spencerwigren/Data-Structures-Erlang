@@ -28,7 +28,9 @@ atom_stuff() ->
     io:fwrite("Hello World\n").
 
 do_math(A, B) ->
-    A + B.
+    A + B,
+    A rem B,
+    math:log10(1000).
 
 create_map() ->
     M = #{ a => 1, b => 2 },
@@ -39,5 +41,3 @@ create_list() ->
 
 go_through_list() ->
     lists:enumerate(2, [1, 2, 3]).
-
-guard_example() ->
