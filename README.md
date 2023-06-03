@@ -4,10 +4,9 @@ The purpose of this progam is to teach me the basics of erlang
 
 This software will show a simply first in first out array
 
+Here is a short vido demestrating my program
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Qa1kK_MRs0s)
 
 # Development Environment
 
