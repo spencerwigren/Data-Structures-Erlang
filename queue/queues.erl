@@ -2,7 +2,6 @@
 -import(lists, [delete/2, nth/2, append/2]).
 -export([start/0, remove_var_queue/1, increase_queue/2, user_input/0, output/1]).
 
- 
 
 start() ->
     Lst = [1,2,3],
@@ -14,7 +13,6 @@ start() ->
 
     Lst5 = remove_var_queue(Lst6),
     io:fwrite("Final List: ~w~n", [Lst5]).
-
 
 
 remove_var_queue(Lst) ->
@@ -44,14 +42,17 @@ remove_var_queue(Lst) ->
 
     Lst7.
 
+
 increase_queue(Lst, I) -> 
     Lst4 = lists:append(Lst, [I]),
     Lst4. 
+
 
 user_input() -> 
     {ok, I} = io:read("Enter a number: "),
     io:format("The number you enterd is: ~w~n", [I]),
     I.
+
 
 output(Lst) -> 
     io:fwrite("~w~n", [Lst]).

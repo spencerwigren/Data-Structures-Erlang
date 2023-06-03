@@ -1,10 +1,9 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The purpose of this progam is to teach me the basics of erlang 
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
+This software will show a simply first in first out array
 
-{Describe your purpose for writing this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,19 +11,19 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+VSCode
 
-{Describe the programming language that you used and any libraries.}
+Erlang
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm)
 * [Data Structures](https://www.geeksforgeeks.org/data-structures/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+Future ideas for this project
+
+* Include a tree data structure
+* Include a link list data structure
+* Learn more about Erlang
